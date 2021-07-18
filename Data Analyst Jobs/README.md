@@ -1,0 +1,1 @@
+In this Exploratory Data Analysis, I have focused on data analyst jobs based on DataAnayst dataset. I have used Pandas, Numpy, Matplotlib, Seaborn, Plotly and its different functionsand methods in this Exploratory Data Analysis project. 
