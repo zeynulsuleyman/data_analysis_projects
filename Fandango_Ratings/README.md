@@ -1,1 +1,1 @@
-
+If you are planning on going out to see a movie, how well can you trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets. Do they have a bias towards rating movies higher than they should be rated? In this EDA, I have presented some findings that will enable you to have your answer. 
